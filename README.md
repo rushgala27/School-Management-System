@@ -30,14 +30,130 @@ The project is for a School Management System build using Python. The GUI is mad
    git clone https://github.com/rushgala27/School-Management-System.git
    cd School-Management-System
    ```
+   
+### Sample Login Credentials
+1. **Student Login:** <br>
+   Username - Rushabh123 <br>
+   Password - 12345678 <br>
+
+2. **Teacher Login:** <br>
+   Username - Darshi999 <br>
+   Password - darshik@26 <br>
+
+3. **Principal Login:** <br>
+   Username - RajanUp12 <br>
+   Password - RUpadhyay123 <br>
 
 <!-- SCREENSHOTS -->
 ## 📱Screenshots
+<br>
+<table>
+  <tr>
+    <td><b> Login Page </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/login.png" width = 700></td>
+  </tr>
+ </table>
+ <br>
 
+<table>
+  <tr>
+    <td><b> Student Login </b></td>
+     <td><b> Student Information </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/studentlogin.png" width = 500></td>
+    <td><img src = "images/studentinfo.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
+
+<table>
+  <tr>
+     <td><b> Teacher Login </b></td>
+     <td><b> Teacher Information </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/teacherlogin.png" width = 500></td>
+    <td><img src = "images/teacherinfo.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
+ 
+ <table>
+  <tr>
+     <td><b> Add New Student </b></td>
+     <td><b> Added Successfully </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/addnewstudent1.png" width = 500></td>
+    <td><img src = "images/addnewstudent2.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
+ 
+<table>
+  <tr>
+     <td><b> Edit Student Info </b></td>
+     <td><b> Edit Student Info </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/editstudentinfo1.png" width = 500></td>
+    <td><img src = "images/editstudentinfo2.png" width = 500></td>
+  </tr>
+ </table>
+ <br> 
+ 
+ <table>
+  <tr>
+     <td><b> Student Info Updated Successfully </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/editstudentinfo3.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
+ 
+ <table>
+  <tr>
+     <td><b> Principal Login </b></td>
+     <td><b> Principal Information </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/principallogin.png" width = 500></td>
+    <td><img src = "images/principalinfo.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
+ 
+ <table>
+  <tr>
+     <td><b> Edit Teacher Information </b></td>
+     <td><b> Edit Personal Information </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/editteacherinfo.png" width = 500></td>
+    <td><img src = "images/editpersonalinfo.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
+ 
+ <table>
+  <tr>
+     <td><b> Add New Teacher </b></td>
+     <td><b> Incorrect Password </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/addnewteacher.png" width = 500></td>
+    <td><img src = "images/incorrectpassword.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
 
 <!-- TECH STACK -->
 ## 🤖Tech Stack
-<img src="image/python_image.png" alt="python_image"> **Python**
+<img src="images/python_image.png" alt="python_image" width= 25> **Python**
 
 <!-- CONTRIBUTING -->
 ## 🔮Contributing
